@@ -1,4 +1,4 @@
-package io.threatrix.demo;
+package io.threatrix.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

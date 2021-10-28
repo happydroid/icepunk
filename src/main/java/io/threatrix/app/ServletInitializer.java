@@ -1,4 +1,4 @@
-package io.threatrix.demo;
+package io.threatrix.app;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
