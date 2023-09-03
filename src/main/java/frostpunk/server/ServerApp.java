@@ -1,10 +1,11 @@
-package io.threatrix.app;
+package frostpunk.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringAppApplication {
+
+public class ServerApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAppApplication.class, args);
